@@ -1,5 +1,11 @@
 <!-- ================= ANIMATED HEADER ================= -->
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=250&section=header&text=HANZLA%20SHAHZAD&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Hanzla Shahzad Banner"
+  />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0891b2&height=220&section=header&text=Hanzla%20Shahzad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20%26%20Next.js%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
