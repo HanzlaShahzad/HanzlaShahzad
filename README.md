@@ -2,6 +2,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Next.js+Developer;Building+Scalable+Web+Applications;Exploring+AI+%26+Automation" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HanzlaShahzad/HanzlaShahzad/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HanzlaShahzad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 <!--
 **HanzlaShahzad/HanzlaShahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
