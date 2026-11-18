@@ -1,13 +1,15 @@
 
 <!-- ================= PREMIUM ANIMATED HEADER ================= -->
 
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=250&section=header&text=HANZLA%20SHAHZAD&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=FULL%20STACK%20MERN%20%26%20NEXT.JS%20DEVELOPER&descSize=18&descAlignY=55&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=250&section=header&text=HANZLA%20SHAHZAD&fontSize=55&fontColor=FFFFFF&animation=fadeIn"
     width="100%"
-    alt="Hanzla Shahzad Developer Banner"
+    alt="Hanzla Shahzad"
   />
 </p>
+
 
 <!-- ================= TYPING ANIMATION ================= -->
 
